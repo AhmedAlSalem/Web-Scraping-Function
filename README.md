@@ -1,0 +1,2 @@
+# Web-Scraping-Function
+Web Scraping Function to                                 1-  Disable flash player                                 2-  Disable volume                                 3-  Disable web notifications                                 4-  Disable image loading                                                                         Code By BeRLiN                                      twitter @iAhmedika
